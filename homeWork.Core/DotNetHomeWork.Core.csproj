@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetHomeWork.Infrastructure\DotNetHomeWork.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Vostok.Logging.Abstractions" Version="1.0.30" />
+    <PackageReference Include="Vostok.Logging.Console" Version="1.0.8" />
+    <PackageReference Include="Vostok.Logging.File" Version="1.0.20" />
+  </ItemGroup>
+
+</Project>

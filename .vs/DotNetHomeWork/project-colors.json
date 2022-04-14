@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f2ad50a-564d-4163-aecc-6449f02ee4b1": {
+      "ProjectGuid": "1f2ad50a-564d-4163-aecc-6449f02ee4b1",
+      "DisplayName": "DotNetHomeWork",
+      "ColorIndex": 0
+    },
+    "737d8cc3-530d-4eca-9329-19576eb67ec9": {
+      "ProjectGuid": "737d8cc3-530d-4eca-9329-19576eb67ec9",
+      "DisplayName": "DotNetHomeWork.Core",
+      "ColorIndex": 1
+    },
+    "e132f0f8-5922-4508-aa35-93067ed49926": {
+      "ProjectGuid": "e132f0f8-5922-4508-aa35-93067ed49926",
+      "DisplayName": "DotNetHomeWork.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

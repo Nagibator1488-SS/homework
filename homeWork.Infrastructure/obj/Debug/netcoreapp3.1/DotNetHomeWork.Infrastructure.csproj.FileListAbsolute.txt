@@ -1,0 +1,10 @@
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.AssemblyInfo.cs
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\bin\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.deps.json
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\bin\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.dll
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\bin\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.pdb
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.dll
+C:\Users\n.zavarzin\Desktop\Новая папка (2)\DotNetHomeWork\DotNetHomeWork\DotNetHomeWork.Infrastructure\obj\Debug\netcoreapp3.1\DotNetHomeWork.Infrastructure.pdb

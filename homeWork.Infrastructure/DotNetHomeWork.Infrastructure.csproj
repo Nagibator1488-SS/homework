@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.15.0" />
+    <PackageReference Include="Vostok.Logging.Abstractions" Version="1.0.30" />
+    <PackageReference Include="Vostok.Logging.Console" Version="1.0.8" />
+    <PackageReference Include="Vostok.Logging.File" Version="1.0.20" />
+  </ItemGroup>
+
+</Project>
